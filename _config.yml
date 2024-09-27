@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Steven Watts"
   pronouns         : # example: "she/her"  
   bio              : "I am a professor of English and scholar of 20th and 21st century fiction. My scholarship and teaching focus on the environmental humanities, histories of the novel, and theories of social movements. "
