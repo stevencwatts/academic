@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: stevencwatts.github.io/academic/publications/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/    
