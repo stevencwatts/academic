@@ -2,7 +2,7 @@
 title: "An Eerie Cacophony: Forms of the Collective in Occupy Novels"
 collection: publications
 category: manuscripts
-permalink: /publication/2020
+permalink: /publications/2009-10-01-paper-title-number-1.
 excerpt: 'Novels that were written about or inspired by the Occupy movement in 2011 are often praised for their attempts at representing the collectivity of the movement. Using the framework of governance infrastructure as provided by Anna Feigenbaum, Fabian Frenzel, and Patrick McCurdy, this article examines what infrastructural practices facilitated collectivity in Occupy and theorizes how post-Occupy novels have formalized those practices. I look at two novels, Ben Lerner’s 2014 novel 10:04 and Rachel Kushner’s 2013 novel The Flamethrowers to demonstrate how post-Occupy novels embody the collective voice of the Occupy movement to varying degrees of success. This article closely reads both novels to illustrate how voice is informed by collective protest strategies and proposes that such use of voice is a development new to post-Occupy novels and signals an awareness of how structures of fiction imitate state infrastructure.'
 date: 2020
 venue: C21 Literature: Journal of 21st-Century Writings
