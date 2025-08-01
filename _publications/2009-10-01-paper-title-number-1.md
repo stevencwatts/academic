@@ -1,5 +1,5 @@
 ---
-title: "An Eerie Cacophony: Forms of the Collective in Occupy Novels"
+title: "An Eerie Cacophony- Forms of the Collective in Occupy Novels"
 collection: publications
 category: manuscripts
 permalink: /publications/2009-10-01-paper-title-number-1.
