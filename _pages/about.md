@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Teaching and Researching With an Environmental Perspective"
+title: "Infrastructural Pedagogy and Research"
 author_profile: true
 redirect_from: 
   - /about/
