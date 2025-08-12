@@ -8,6 +8,10 @@ date: 2024-08-01
 location: "Yankton, South Dakota"
 ---
 
+Open for list of courses, descriptions, and syllabi. 
+
+Gen 102: This is an introduction to university course for incoming freshmen. The course helps students understand the infrastructures that facilitate university life and provide them with the schematics for navigating those infrastructures. 
+
 English 103: The Essay. This course emphasizes the foundational components of the writing process: creation, drafting, revision, and editing. Using visual art as the object of study, students write a descriptive essay, narrative essay, and expository essay based on visual art of their choice while engaging in these foundational components. This course uses open-access texts.
 
 English 104: Critical Writing. This course introduces the core components of academic writing: namely, research. I use visual art as the object of study in this course as well, and we read critics like T.J. Clark and Michael Fried on art before engaging in a scaffolded research process starting with Google searches before proceding to a source worksheet, an annotated bibliography, and finally, a research essay. This course uses open-access texts.
@@ -22,11 +26,7 @@ English 286T: American Indian Literature. This course examines how literature ca
 
 English 344: Recent British Literature. This is a general education course that introduces majors and non-majors to Anglophone writers from 1780-Present. In this class, we trace the textual development and decline of the nation-state over this period, starting with neo-classical poets and continuing on to the contemporary post-fictional Anglophone authors. 
 
-Heading 1
-======
+English 356: The Novel. In this class we focused on the novel as a communicative technology that represents a specific social world and mode of production. The semester started by reading _The Tale of Genji_ and proceded through the years and across continents to explore how the methods of representation respond to changes in social reproduction. Students collectively wrote a _Theories of the Novel_ glossary using texts from class as objects of study.
 
-Heading 2
-======
+English 399: Senior Seminar. This is a collaboratively lead course with other professors in the department. In this course, we arrange for graduating seniors to conduct a semester long research-project that culminates in an article-length paper and a public presentation. 
 
-Heading 3
-======
