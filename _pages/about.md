@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Environmental Humanities Scholar and Teacher"
+title: "Environmental Humanities Writer and Teacher"
 author_profile: true
 redirect_from: 
   - /about/
