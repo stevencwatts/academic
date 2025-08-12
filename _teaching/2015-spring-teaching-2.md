@@ -3,9 +3,9 @@ title: "Previous Experience"
 collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/2015-spring-teaching-1
-venue: ""
-date: 
-location:
+venue: "da classroom"
+date: 2014-08-01
+location: The heart of the jungle
 ---
 
 Open for course titles, descriptions, and syllabi of previous institutions.
