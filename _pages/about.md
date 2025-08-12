@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Infrastructural Pedagogy and Research"
+title: "Environmental Humanities Scholar and Teacher"
 author_profile: true
 redirect_from: 
   - /about/
